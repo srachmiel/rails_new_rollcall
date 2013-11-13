@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Rollcall::Application.config.secret_key_base = '5f045eda116e0df5673cc6711e462acbdbbf603e1f4c5b21fc072f34a7251ab8ecdc6f4c443d935219d668b014916dc3cff16f6efffb5e5f99d81d3a5fdcfc1a'
+Rollcall::Application.config.secret_key_base = '7bba6b6e46c2fd7231d59197161e74e7d7134aea33198a47c308f387406db7850a27141cdca134d64757d84a2ac20413311fafb582d68040a031ecfbb15e34e2'
